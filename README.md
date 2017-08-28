@@ -18,6 +18,8 @@ Keypoints:
    - Alamofire
    - SVProgressHUD
 
+This project is on Github, so this implies use of git and github.
+
 
 # Screenshot
 ![ss](/asset%20files/screenshot2.png?raw=true "Screenshot")
